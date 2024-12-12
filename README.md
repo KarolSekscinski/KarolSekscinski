@@ -1,5 +1,5 @@
 # 💫 Hi I'm Karol
-Trainee in MLOps Team.
+Junior Engineer in MLOps Team.
 Student at Applied CS WUT (Informatyka Stosowana PW) | MIESI Warsaw University of Economics (MIESI SGH)<br>
 I'm currently learning how to build data pipelines and robust data processing systems.
 
